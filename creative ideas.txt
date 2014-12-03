@@ -1,0 +1,6 @@
+creative portion:
+
+- users can sell items to the marketplace
+
+- users get a "starter pack" when registering
+

@@ -1,0 +1,42 @@
+ body{
+	background-color: white;
+}
+
+.header {
+    background-color: #787878;
+    color: black;
+    text-align: center;
+    padding: 25px;
+    font-family: Impact;
+}
+ 
+.container {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    margin: 2em;
+    border-style: solid;
+    border-width: 1em;
+    border-color: #787878;
+    max-width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+ 
+form {
+    color: black;
+    #text-align: center;
+}
+ 
+.left {
+    text-align: left;
+}
+ 
+.right {
+    text-align: right;
+}
+ 
+textarea{
+    width: 75%;
+    height: 400px;
+}

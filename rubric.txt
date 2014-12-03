@@ -1,0 +1,44 @@
+Description: 
+Simplified Neopets - A site where users can create a pet upon sign up, and can play a 
+game to receive points that they can use to buy items to use with their pet.
+
+Languages & Tools:
+MySql
+Javascript
+Html/CSS
+Php
+
+
+Rubric:
+Best Practices (10 points)
+Creative (20 points)
+Rubic (5 points)
+
+User management
+	Users can log into the site, and they cannot view or manipulate things associated with other users (8 points)
+	Users can customize pet upon signing up (3 points)
+	Users can play the game without logging in & can view high scores (5 points)
+	Users have points associated with their activities (2 points)
+
+Pet management
+	Pets have hunger level & mood that update based on time passed/items given (10 points)
+
+Interaction management
+	Users can view inventory of their items (4 points)
+	Users can give can pets items, feed pets, & play with pets (6 points)
+	
+Market view
+	Market has multiple options with price values associated (3 points)
+	Users can purchase items for a cost (3 points)
+	Users can put in inventory up for sale (3 points)
+	
+Card matching
+	Users get points for correctly matching cards (5 points)
+	Users lose points for incorrectly matching cards (5 points)
+	Users can choose a difficulty level (3 points)
+	Users can choose 2 or 3 cards to match (2 points)
+	
+Communication
+	Users can create send "mail" to other users (5 points)
+
+	
